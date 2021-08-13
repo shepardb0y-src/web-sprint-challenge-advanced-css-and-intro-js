@@ -64,9 +64,10 @@ img:hover {
 }	
 
 /*HEADER STYLES */
-header{
+header.hero{
     display:flex;
     justify-content: center;
+    align-items: center;
 }
 nav{
     width:30%;
